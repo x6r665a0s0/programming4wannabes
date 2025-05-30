@@ -47,7 +47,7 @@ Hope that at this point you have understood, that hacking/system programming is 
 So, it is time to learn the basics about a computer. C and ASM are low level programming languages. We will see soon how true this is. This means, that, to really master those programming languages you need to know, at least, the basics of how does a computer works.
 
 # The Simplest Computer in The World
-Despite of how people things technology has advance in the last decades, the reality is that computers haven't change much in nearly 50 years. They are faster, they are smaller, they consume less power... but they still work the same way. Indeed, this is a simplification, but at the level at which we are going to work this is actually the case.
+Despite how much people think technology has advanced in the last few decades, the reality is that computers haven't changed much in nearly 50 years. They are faster, they are smaller, they consume less power... but they still work the same way. Indeed, this is an over-simplification, but at the level at which we are going to work this is actually the case.
 
 For illustration purposes, let's introduce the SCTW-2000. This is a fictional computer that will let us introduce different concepts in a generic way. It could easily be one of the popular home microcomputers from the 80s. We will match the SCTW-2000 with real examples, but we will avoid using real computers, at least at the beginning and for the sake of simplicity.
 
