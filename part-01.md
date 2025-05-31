@@ -6,10 +6,6 @@ First things first. This is going to be a joint course on C and assembly program
 
 Easy, this was just a joke to catch your attention. Now seriously. Learning scripting languages is a powerful tool and will save you a lot of time in many cases. Mastering Python is indeed a great skill and it is something you should invest time on. Analogously, C and assembly are the only way forward for some topics: reverse engineering, kernel level rootkits, and some system level programming can only be done with those low level languages. So, if you really want to be a hacker... man, there is no way around, you gotta have to learn CASM (C + ASM :).
 
-Two notes before we start:
-
-- I'm not a hacker myself. Not even a wannabe. Really I do not have any interest on becoming a hacker. This basically means that you should take this course as a starting point. When you get done with it... then... your journey will really start.
-- No. HTML is not a programming language. If you think that... you really need to go through this course. :stuck_out_tongue_closed_eyes:
 
 The course will be organized as follows:
 
