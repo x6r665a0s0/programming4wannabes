@@ -1,6 +1,4 @@
-# Programming for Wannabes. Part I. Your first Program
-
-If you are reading this is because you want to be a hacker. Therefore, you are automatically a [wannabe](http://www.catb.org/jargon/html/W/wannabee.html). It does not sound that cool, but it is actually pretty cool. It means that you still have a lot of exciting things to discover!!!
+# Part I. Your first Program
 
 First things first. This is going to be a joint course on C and assembly programming. Those are the only two languages a real hacker has to know. Yes. Really. The only two languages that will let you do the real hacking. You can do some stuff with Python or PowerShell... but that is Skid stuff.. You know what the S on skid stands for... don't you?. It stands for Script :stuck_out_tongue_winking_eye:
 
